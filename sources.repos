@@ -2,7 +2,7 @@ repositories:
   core/autoware_adapi_msgs:
     type: git
     url: https://github.com/autowarefoundation/autoware_adapi_msgs.git
-    version: 12287684e096a02d279299a7e6cb44740fc34467
+    version: 87fc41f07bc7054978ebedbfd30d5f88d18eddce
   core/autoware_cmake:
     type: git
     url: https://github.com/autowarefoundation/autoware_cmake.git
@@ -10,39 +10,39 @@ repositories:
   core/autoware_core:
     type: git
     url: https://github.com/autowarefoundation/autoware_core.git
-    version: 3d059fa8c4aa4a79295051a339554406687d0580
+    version: 79f2c75b98b8fc7fd5da5426fdfb3665463a1d46
   core/autoware_internal_msgs:
     type: git
     url: https://github.com/autowarefoundation/autoware_internal_msgs.git
-    version: 89124f4c745230058b3f6a971eaf2dea6de4310d
+    version: 290efb7b0c51d150389dc75b18248d16a52729b1
   core/autoware_lanelet2_extension:
     type: git
     url: https://github.com/autowarefoundation/autoware_lanelet2_extension.git
-    version: 83842839f852616736920fc64586abd3d758171c
+    version: 66fe887cadd8a2f65c01ede8352a1f75bcf534a1
   core/autoware_msgs:
     type: git
     url: https://github.com/autowarefoundation/autoware_msgs.git
-    version: 0e47f667eca59d3339a254332263e3c8a566008d
+    version: 3fad6405f5eb3e5fa18cfff3565c7b2c02291a85
+  core/autoware_rviz_plugins:
+    type: git
+    url: https://github.com/autowarefoundation/autoware_rviz_plugins.git
+    version: 69878ef0f4f3694a83ad838df1ca3054bb5c08db
   core/autoware_utils:
     type: git
     url: https://github.com/autowarefoundation/autoware_utils.git
-    version: 6783a161a9f05790e93a651cb37a49f2e6e237ea
+    version: 021ac0af7a065a00303f4fea991fe7b141e0e1a6
   launcher/autoware_launch:
     type: git
     url: https://github.com/autowarefoundation/autoware_launch.git
-    version: f898cd42767f2400205b33834e8ec0eaeac2b1f6
+    version: 99532fa9afcdbf5cccb54501ab8c5fe49f4b1e5e
   middleware/external/agnocast:
     type: git
     url: https://github.com/tier4/agnocast.git
-    version: 7e3355b5b580ec86c5131cfe45e39345d1a4066d
-  param/autoware_individual_params:
-    type: git
-    url: https://github.com/autowarefoundation/autoware_individual_params.git
-    version: 70000825155182d9261ce0980076b0e2c6dc3f51
+    version: d8ed60d8ee473f984508d81151e85908bc3b0e0b
   sensor_component/external/nebula:
     type: git
     url: https://github.com/tier4/nebula.git
-    version: 8d6aec11a0ec47f93eba64849bc4feede0196650
+    version: e4a491fe19694f3b72ec531c3e9997185217a61b
   sensor_component/external/sensor_component_description:
     type: git
     url: https://github.com/tier4/sensor_component_description.git
@@ -58,7 +58,7 @@ repositories:
   universe/autoware_universe:
     type: git
     url: https://github.com/autowarefoundation/autoware_universe.git
-    version: c6a70d2e24d88aeabbabdd9c246a5dbd71220d4d
+    version: d3b8889e5f4615ab5104182858c9f7fae51331ab
   universe/external/cuda_blackboard:
     type: git
     url: https://github.com/autowarefoundation/cuda_blackboard.git
@@ -78,7 +78,7 @@ repositories:
   universe/external/managed_transform_buffer:
     type: git
     url: https://github.com/autowarefoundation/managed_transform_buffer.git
-    version: e235f65986890e7133f33176bc6be5c42b7f3dc7
+    version: 7de93a00769de0b0e3fd1b80aa5ec4e146115fe1
   universe/external/morai_msgs:
     type: git
     url: https://github.com/MORAI-Autonomous/MORAI-ROS2_morai_msgs.git
@@ -102,11 +102,11 @@ repositories:
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
-    version: 08e9863571f6e6629f70bb99feb58edbe40ed967
+    version: 29fabf498ad197367dbccc134d36c89ce8be446a
   universe/external/tier4_autoware_msgs:
     type: git
     url: https://github.com/tier4/tier4_autoware_msgs.git
-    version: 8d0ad4f51f7f30a1c07cbbc17d00a44fc6422607
+    version: 5ec622a7790e9cc7f9bf35ec08bac2837d8ed16d
   universe/external/trt_batched_nms:
     type: git
     url: https://github.com/autowarefoundation/trt_batched_nms.git
